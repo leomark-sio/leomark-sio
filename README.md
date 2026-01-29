@@ -53,4 +53,3 @@ Comfortable taking **end-to-end ownership** of backend systems and collaborating
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leomark-sio&layout=compact)
 
-### If you like my work, 🎉 [become a sponsor](https://github.com/sponsors/leomark-sio/)
