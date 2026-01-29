@@ -5,8 +5,8 @@
 💻 Backend-focused full-stack engineer with **5+ years of experience** building **secure, scalable, production-grade systems**.
 I specialize in 🧠 backend architecture, 🔗 API design, 🗄 databases, and ☁️ cloud infrastructure for real-world products operating under **growth, load, and business pressure**.
 
-I enjoy working on systems where ✅ correctness, 🔒 security, ⚙️ reliability, and 🧩 maintainability matter — from early MVPs to mature platforms.
-Comfortable taking **end-to-end ownership** of backend systems and collaborating closely with 🎨 frontend, 📊 product, and 🚢 DevOps teams.
+I enjoy working on systems where ✅ correctness, 🔒 security, reliability, and maintainability matter — from early MVPs to mature platforms.
+Comfortable taking **end-to-end ownership** of backend systems and collaborating closely with frontend, product, and DevOps teams.
 
 ---
 
