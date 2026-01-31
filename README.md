@@ -1,55 +1,79 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi,
+## 👋 Hi, I’m Vladyslav — Senior Backend Engineer | Cloud & APIs
 
-## 🚀 Senior Backend Engineer | ☁️ Cloud & APIs
-
-💻 Backend-focused full-stack engineer with **5+ years of experience** building **secure, scalable, production-grade systems**.
-I specialize in 🧠 backend architecture, 🔗 API design, 🗄 databases, and ☁️ cloud infrastructure for real-world products operating under **growth, load, and business pressure**.
-
-I enjoy working on systems where ✅ correctness, 🔒 security, reliability, and maintainability matter — from early MVPs to mature platforms.
-Comfortable taking **end-to-end ownership** of backend systems and collaborating closely with frontend, product, and DevOps teams.
+| Experience      | Role                 | Focus                   | Style                     |
+| --------------- | -------------------- | ----------------------- | ------------------------- |
+| 5+ years        | Backend / Full-Stack | APIs, Databases, Cloud  | Clean, production-ready   |
+| Startups & SaaS | Senior Engineer      | Business logic          | Long-term maintainability |
+| MVP → Scale     | Owner                | Payments & integrations | Stability over hacks      |
 
 ---
 
-## 🔧 Core Expertise 
+## 🧠 Core Strengths
 
-* 🏗 Backend architecture & system design
-* 🔌 Scalable REST APIs, RPC, and webhooks
-* 🔐 Authentication & authorization systems
-* 🗄 Database schema design, migrations & performance tuning
-* ☁️ Cloud infrastructure & deployment
-* 🔄 Third-party API & payment integrations
-
----
-
-## 🛠 Tech Stack 
-
-### 🧩 Backend
-
-* 🟢 Node.js, NestJS, Express
-* 🐍 Python, Django, FastAPI
-* 🐘 PHP, Laravel
-
-### 🗄 Databases
-
-* 🐘 PostgreSQL
-* 🐬 MySQL
-
-### ☁️ Cloud & DevOps
-
-* ☁️ AWS
-* ▲ Vercel
-* 🐳 Docker
-* 🔁 CI/CD pipelines
-
-### 🔗 Integrations
-
-* 💳 Stripe
-* 📇 CRM & automation platforms
-* 🌐 External APIs & webhooks
+| Architecture      | APIs     | Data          | Security        |
+| ----------------- | -------- | ------------- | --------------- |
+| System design     | REST     | Schema design | Auth flows      |
+| Scalable services | RPC      | Migrations    | Access control  |
+| Backend patterns  | Webhooks | Performance   | Secure defaults |
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=leomark-sio&show_icons=true&count_private=true)
+## 🛠 Tech Stack (Core)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leomark-sio&layout=compact)
+| Runtime | Frameworks | Languages  |
+| ------- | ---------- | ---------- |
+| Node.js | NestJS     | TypeScript |
+| Python  | Django     | JavaScript |
+| PHP     | FastAPI    | PHP        |
+| —       | Express    | —          |
 
+---
+
+## 🗄 Databases & Storage
+
+| Relational | Usage             | Focus          |
+| ---------- | ----------------- | -------------- |
+| PostgreSQL | Core data         | Indexing       |
+| MySQL      | Legacy / services | Query tuning   |
+| —          | —                 | Data integrity |
+
+---
+
+## ☁️ Cloud & DevOps
+
+| Cloud | Deploy | Ops                  |
+| ----- | ------ | -------------------- |
+| AWS   | Vercel | Docker               |
+| —     | CI/CD  | Environments         |
+| —     | —      | Production workflows |
+
+---
+
+## 🔗 Integrations & Payments
+
+| Payments      | Automation     | External         |
+| ------------- | -------------- | ---------------- |
+| Stripe        | CRM systems    | Third-party APIs |
+| Subscriptions | Workflow tools | Webhooks         |
+| Billing logic | Lead pipelines | Data sync        |
+
+---
+
+## 🤖 Recent Focus Areas
+
+| Area                | Work                       |
+| ------------------- | -------------------------- |
+| AI-assisted systems | Prompt & logic integration |
+| Internal tools      | Admin dashboards           |
+| System cleanup      | Refactor & stabilization   |
+| Reliability         | Edge-case handling         |
+
+---
+
+## 📌 What I’m Best At
+
+| Fixing          | Building             | Improving            |
+| --------------- | -------------------- | -------------------- |
+| Messy codebases | Backend services     | Performance          |
+| Unstable logic  | APIs & systems       | Maintainability      |
+| Production bugs | Scalable foundations | Developer experience |
