@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Vladyslav — Senior Backend Engineer | Cloud & APIs
+## 👋 Hi, I’m Vlady — Senior Backend Engineer
 
 | Experience      | Role                 | Focus                   | Style                     |
 | --------------- | -------------------- | ----------------------- | ------------------------- |
@@ -67,13 +67,3 @@
 | Internal tools      | Admin dashboards           |
 | System cleanup      | Refactor & stabilization   |
 | Reliability         | Edge-case handling         |
-
----
-
-## 📌 What I’m Best At
-
-| Fixing          | Building             | Improving            |
-| --------------- | -------------------- | -------------------- |
-| Messy codebases | Backend services     | Performance          |
-| Unstable logic  | APIs & systems       | Maintainability      |
-| Production bugs | Scalable foundations | Developer experience |
