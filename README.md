@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Vlady — Senior Backend Engineer
+## 👋 Hi
 
 | Experience      | Role                 | Focus                   | Style                     |
 | --------------- | -------------------- | ----------------------- | ------------------------- |
